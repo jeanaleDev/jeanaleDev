@@ -25,14 +25,14 @@ Atualmente construindo aplicações com foco em:
 
 ## 📱 Projetos em Destaque
 
-🔹 Banking UI Clone  
-Aplicação inspirada em app bancário com navegação estruturada e UI personalizada.
+🔹 Banking UI Clone.
+- Aplicação inspirada em app bancário com navegação estruturada e UI personalizada.
 
-🔹 App Delivery Food 
-Consumo de dados local(mock), gerenciamento de estado e UI/UX design.
+🔹 App Delivery Food.
+- Consumo de dados local(mock), gerenciamento de estado e UI/UX design.
 
-🔹 Lista de Contatos  
-Persistência local com arquitetura organizada.
+🔹 Lista de Contatos.
+- Persistência local com arquitetura organizada.
 
 ---
 
