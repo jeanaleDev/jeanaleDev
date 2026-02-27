@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Jean Alexandre
 
-Mobile Developer focado em Flutter e arquitetura bem estruturada.
+Mobile Developer em Flutter.
 
 Atualmente construindo aplicações com foco em:
 - UI moderna
@@ -28,8 +28,8 @@ Atualmente construindo aplicações com foco em:
 🔹 Banking UI Clone  
 Aplicação inspirada em app bancário com navegação estruturada e UI personalizada.
 
-🔹 Weather App  
-Consumo de API com gerenciamento de estado e tratamento de erros.
+🔹 App Delivery Food 
+Consumo de dados local(mock), gerenciamento de estado e UI/UX design.
 
 🔹 Lista de Contatos  
 Persistência local com arquitetura organizada.
